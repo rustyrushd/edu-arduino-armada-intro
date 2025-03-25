@@ -1,5 +1,5 @@
-## Building multiple blinking LEDs
+## Building Multiple Blinking LEDs
 
 ![blinking multiled circuit](blinking-multiled.png)
 
-[code](blinking-multiled.ino)
+[code](blinking_multiled.ino)
