@@ -48,5 +48,5 @@ void loop()
   2. Reversing the lighting order of LEDs,
   green then yellow then red (in software).
   
-  3. Also try making the LEDs blink at same time.  
+  3. Also try making the LEDs blink at the same time.  
 */
